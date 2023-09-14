@@ -6,9 +6,9 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://precious-starlight-a9247e.netlify.app/me.39342f83.png" style="margin-bottom:20px;border-radius:10px;" /> -->
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahriarsajeeb&label=Profile%20views&color=0e75b6&style=flat" alt="shahriarsajeeb" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shabab007&label=Profile%20views&color=0e75b6&style=flat" alt="shahriarsajeeb" /> </p> -->
 
-- I am currently working on [Becodemy](https://www.becodemy.com)
+<!-- - I am currently working on [Becodemy](https://www.becodemy.com) -->
 
 - 🌱 I’m currently learning **Machine Learning,Data Science**
 
